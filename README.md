@@ -1,10 +1,14 @@
-# cucumber-bdd-google :D
+# Cucumber BDD Testing Google  
+
+---  
  
 Start local: 
-- npm install
-- npm run test:search
+- ```npm install```
+- ```npm run test:search```
 
 Start docker:
-- docker build image-name .
-- docker run image-name
-- docker push image-name
+- ```docker build image-name .```
+- ```docker run image-name```
+- ```docker push image-name```
+
+--- 
